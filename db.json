@@ -1,0 +1,33 @@
+{
+    "bg": "https://steamuserimages-a.akamaihd.net/ugc/957483070093055113/DABA77BF74CE845A1F1DA8A3A1ABA5FA54479C9A/",
+    "title": "Quiz ",
+    "description": "Teste os seus conhecimentos sobre League of Legends",
+    "questions": [
+      {
+        "image": "https://i.pinimg.com/originals/f3/a6/25/f3a625dca57936bc2681fa4ffec5e3fe.gif",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#6d1b7b",
+        "secondary": "#f50057",
+        "mainBg": "#1C1814",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
