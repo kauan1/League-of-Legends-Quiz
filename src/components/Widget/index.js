@@ -1,10 +1,10 @@
 import styled from 'styled-components';
 
- const Widget = styled.div`
+const Widget = styled.div`
   margin-top: 24px;
   margin-bottom: 24px;
-  border: 1px solid ${({theme})=> theme.colors.primary};
-  background-color: ${({theme})=> theme.colors.mainBg};
+  border: 1px solid ${({ theme }) => theme.colors.primary};
+  background-color: ${({ theme }) => theme.colors.mainBg};
   border-radius: 4px;
   overflow: hidden;
 
@@ -27,14 +27,14 @@ Widget.Header = styled.header`
   justify-content: flex-start;
   align-items: center;
   padding: 18px 32px;
-  background-color: ${({theme})=> theme.colors.primary};
+  background-color: ${({ theme }) => theme.colors.primary};
 
   *{
     margin: 0;
   }
 `;
 
- Widget.Content = styled.div`
+Widget.Content = styled.div`
   padding: 24px 32px 32px 32px;
   & > *:first-child{
     margin-top:0;
