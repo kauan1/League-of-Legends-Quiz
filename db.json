@@ -5,14 +5,26 @@
     "questions": [
       {
         "image": "https://i.pinimg.com/originals/f3/a6/25/f3a625dca57936bc2681fa4ffec5e3fe.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "title": "Qual a lane mais chata de se jogar",
+        "description": "Só pra saber se você sofre ou não",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Top",
+          "Mid",
+          "Bot",
+          "Jungle"
+        ]
+      },
+      {
+        "image": "https://thumbs.gfycat.com/WeeTotalAllosaurus-max-1mb.gif",
+        "title": "Qual a lane vira um Aram",
+        "description": "Só pra saber se você sofre ou não",
+        "answer": 1,
+        "alternatives": [
+          "Top",
+          "Mid",
+          "Bot",
+          "Jungle"
         ]
       }
     ],
